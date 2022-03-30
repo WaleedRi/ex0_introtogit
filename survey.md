@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black 
+Favorite food: Lasagnia
+Favorite musician/band: J Cole 
+Favorite movie: Batman
+Requested grade in the course: 95
